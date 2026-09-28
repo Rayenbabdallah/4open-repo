@@ -1,0 +1,7 @@
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+.git/
+fse2027-replication-core.zip
